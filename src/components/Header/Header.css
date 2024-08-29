@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 1rem;
+    /* border: 2px solid red; */
+    background-image: linear-gradient(to right,rgb(182, 15, 98),rgb(50, 131, 163));
+}
+.logo{
+    width: 300px;
+ 
+}
+.imgDiv{
+    width: 70px;
+}
+.baslik{
+    font-size: 3rem;
+}

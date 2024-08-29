@@ -1,0 +1,31 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Holtwood+One+SC&family=Matemasie&display=swap');
+
+
+.h1{
+    
+    text-align: center;
+    margin: 1rem;
+   font-weight: bolder;
+   font-size: 2.5rem;
+   font-family: "Holtwood One SC", serif;
+   
+
+    
+
+}
+.container{
+    display: flex;
+    width: 70%;
+   min-height: 40vh;
+    flex-wrap: wrap;
+    /* border: 2px solid red; */
+    margin: auto;
+    margin-top: 3rem;
+    background-image:linear-gradient(to right,rgb(236, 143, 37),rgb(234, 0, 255));
+    box-shadow: 5px 5px 10px black;
+    border-radius: 10px;
+
+   
+    
+}

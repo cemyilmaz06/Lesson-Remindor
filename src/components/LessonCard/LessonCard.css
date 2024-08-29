@@ -1,0 +1,46 @@
+.img{
+  width: 70px;
+  height: 100%;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  object-fit: cover;
+  border-radius: 1rem;
+  box-shadow: 5px 5px 10px black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.cardDiv{
+    display: flex;
+ gap: 1rem;
+    align-items: center;
+   width: 400px;
+  margin-left: 2.5rem;
+    align-items: center;
+    margin-top: 1.5rem;
+    flex-wrap: wrap;
+    
+    
+    
+   
+  
+    
+}
+.cardContainer{
+
+ 
+ 
+ 
+}
+.par{
+    color: aliceblue;
+    
+  
+  
+  
+}
+span{
+    color:rgb(68, 8, 92);
+    font-weight: 700;
+}
